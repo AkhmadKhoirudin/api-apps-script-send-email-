@@ -2,4 +2,4 @@
 
 pengunaan  souce 
  
-`https://script.google.com/macros/s/XXXXX api key XXXXX/exec?emailclient= alamat malyang di gunakan` 
+`https://script.google.com/macros/s/XXXXX api key XXXXX/exec?emailclient= email@EMAIL.com` 
